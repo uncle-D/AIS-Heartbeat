@@ -1,6 +1,8 @@
 ﻿## Heartbeat for AIS Clients ##
 ## Derrick Lamp ##
 
+$ErrorActionPreference = "SilentlyContinue"
+
 ## Service Tag From BIOS
     $bios = Get-WmiObject win32_bios
     $serviceTag = $bios.serialnumber
