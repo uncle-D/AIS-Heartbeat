@@ -1,4 +1,4 @@
-﻿## Heartbeat for AIS Clients ##
+## Heartbeat for AIS Clients ##
 ## Derrick Lamp ##
 
 $ErrorActionPreference = "SilentlyContinue"
